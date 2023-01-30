@@ -2,3 +2,4 @@ Welcome to Build Bright University
 Add more content
 Testing merged confligt
 Testing more merged confligt
+Testing second merged confligt
